@@ -1,4 +1,4 @@
-name: fsdl-text-recognizer-2022
+name: fsdl-2022
 channels:
   - defaults
   - conda-forge
